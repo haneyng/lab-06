@@ -6,8 +6,8 @@ import java.util.List;
 
 /**
  * This is a class that keeps a list of city objects.
- * @author CMPUT 301 - Lab 6 Tutorial & Han Nguyen
- * @version 1.1
+ * @author CMPUT 301 - Lab 6 Tutorial, Han Nguyen
+ * @version 1.2
  * @see City
  * @since ListyCity 1.0 (commit #1)
  */
